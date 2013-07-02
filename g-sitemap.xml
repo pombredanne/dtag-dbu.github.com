@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://tgudd.fodina.de/en/site/xml-sitemap.html</loc>
+		<loc>http://dtag-dbu.github.com/en/site/xml-sitemap.html</loc>
 		<lastmod>2010-04-07</lastmod>
 	</url>
 	<url>
-		<loc>http://tgudd.fodina.de/en/site/html-sitemap.html</loc>
+		<loc>http://dtag-dbu.github.com/en/site/html-sitemap.html</loc>
+		<lastmod>2013-07-02</lastmod>
+	</url>
+	<url>
+		<loc>http://dtag-dbu.github.com/en/dtag-dbu.html</loc>
 		<lastmod>2012-02-17</lastmod>
 	</url>
 	<url>
-		<loc>http://tgudd.fodina.de/en/dtag-dbu.html</loc>
-		<lastmod>2012-02-17</lastmod>
+		<loc>http://dtag-dbu.github.com/en/site/imprint.html</loc>
+		<lastmod>2013-07-02</lastmod>
 	</url>
 </urlset>
